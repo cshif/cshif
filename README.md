@@ -1,18 +1,24 @@
-### Hi there 👋
+#### 👋
 
-<!--
-**cshif/cshif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A frontend developer and UX enthusiast. Enjoy crafting.
 
-Here are some ideas to get you started:
+Write JavaScript, Vue, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning Node.js, Rust and français.
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshif)](https://github.com/cshif/github-readme-stats) -->
+Also, learning fundamental CS (with slow pace).
+
+
+#### 📍
+
+Now based in [Tainan](https://goo.gl/maps/j6RC7RLmtaHnKosJ7), looking for a global remote job. Feel free to contact :)
+
+[My ReadCV](https://read.cv/cshif) / eva.ychuang@gmail.com
+
+#### ⚡
+
+When trying to get myself focus, a cup of [Mariage Frères'](https://goo.gl/maps/VcVN1RDUqtgbbDgB7) milk tea usually works.
+
+An ameteur photographer. Mostly shot Sprout, a tuxedo cat, the real boss in the studio.
+
+An extreme collector of Google Map restaurants.
