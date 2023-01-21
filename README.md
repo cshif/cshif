@@ -4,7 +4,7 @@ A frontend developer and UX enthusiast. Enjoy crafting.
 
 Write JavaScript, Vue, HTML, and CSS.
 
-Learning Node.js, Rust and français.
+Learning React, Node.js, Rust and français.
 
 Also, learning fundamental CS (with slow pace).
 
