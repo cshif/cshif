@@ -13,7 +13,7 @@ Also, learning fundamental CS (with slow pace).
 
 Now based in [Tainan](https://goo.gl/maps/j6RC7RLmtaHnKosJ7), looking for a global remote job. Feel free to contact :)
 
-[My ReadCV](https://read.cv/cshif) / eva.ychuang@gmail.com
+[My ReadCV](https://read.cv/cshif) / [My CakeResume](https://www.cakeresume.com/eva-ychuang) / [My Email](mailto:eva.ychuang@gmail.com)
 
 #### ⚡
 
